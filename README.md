@@ -20,12 +20,12 @@ IOT Predictive Maintenance Project repository for DES231
 
 
 
-Dashboard Pre-Requisites :
+#Dashboard Pre-Requisites :
 
 Check if Python is already installed . If not run below command
 sudo yum install -y python3-pip
 
-# confluent-kafka needs librdkafka
+confluent-kafka needs librdkafka
 sudo yum install -y librdkafka
 
 Install Python packages
